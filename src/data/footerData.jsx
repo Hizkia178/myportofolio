@@ -25,26 +25,22 @@ const footerData = {
 
     socials: [
         {
-            label: "GitHub",
-            icon: "bx bxl-github",
-            href: "https://github.com/Hizkia178",
-        },
-        {
-            label: "LinkedIn",
-            icon: "bx bxl-linkedin-square",
-            href: "https://www.linkedin.com/in/hizkia-siahaan-59b003280/",
+            label: "WhatsApp",
+            icon: "bx bxl-whatsapp",
+            href: "https://wa.me/62XXXXXXXXXX"
         },
         {
             label: "Instagram",
             icon: "bx bxl-instagram",
-            href: "#",
+            href: "https://www.instagram.com/username"
         },
         {
-            label: "Twitter",
-            icon: "bx bxl-twitter",
-            href: "#",
-        },
+            label: "GitHub",
+            icon: "bx bxl-github",
+            href: "https://github.com/Hizkia178"
+        }
     ],
+
 
 
 
