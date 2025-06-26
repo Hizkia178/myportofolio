@@ -31,9 +31,9 @@ const About = () => {
                             src={aboutData.image}
                             alt="About Me"
                             className="w-full max-w-md rounded-xl shadow-lg object-cover 
-             border-8 border-white dark:border-gray-800 
-             hover:shadow-3xl hover:-translate-y-2 
-             transition-all duration-300"
+                             border-8 border-white dark:border-gray-800 
+                             hover:shadow-3xl hover:-translate-y-2 
+                             transition-all duration-300"
                         />
 
                     </div>
@@ -98,7 +98,7 @@ const About = () => {
                                         title: "Not Available Yet 😅",
                                         text: "My resume is still in progress. Please check back later!",
                                         icon: "info",
-                                        confirmButtonColor: "#1F2937", 
+                                        confirmButtonColor: "#1F2937",
                                         confirmButtonText: "Alright",
                                     });
                                 }}
