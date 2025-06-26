@@ -31,24 +31,20 @@ const homeData = {
     {
       platform: "GitHub",
       icon: "bx bxl-github",
-      href: "https://github.com/Hizkia178",
-    },
-    {
-      platform: "LinkedIn",
-      icon: "bx bxl-linkedin-square",
-      href: "https://www.linkedin.com/in/hizkia-siahaan-59b003280/",
+      href: "https://github.com/Hizkia178"
     },
     {
       platform: "Instagram",
       icon: "bx bxl-instagram",
-      href: "#",
+      href: "https://www.instagram.com/yourusername" 
     },
     {
-      platform: "Twitter",
-      icon: "bx bxl-twitter",
-      href: "#",
-    },
+      platform: "WhatsApp",
+      icon: "bx bxl-whatsapp",
+      href: "https://wa.me/62XXXXXXXXXX" 
+    }
   ],
+
   stats: [
     {
       label: "Experience",
